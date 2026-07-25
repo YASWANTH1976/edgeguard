@@ -1,5 +1,7 @@
 # 🛡️ EdgeGuard AI: Local Laptop Privacy Shield
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kabirwrites)
+
 Tired of feeling like someone is reading your screen at the coffee shop? Worried about leaving your laptop unattended? 
 
 EdgeGuard is an intelligent, locally hosted Edge-AI privacy shield. Using advanced computer vision, it monitors your background and instantly neutralizes visual hacking threats before they can steal your data.
@@ -7,7 +9,7 @@ EdgeGuard is an intelligent, locally hosted Edge-AI privacy shield. Using advanc
 ---
 
 ## 🚀 Quick Download
-**[Download the ready-to-use Windows .exe App from GitHub Releases](https://github.com/YASWANTH1976/edgeguard/releases)**
+**[Download the ready-to-use Windows .exe App directly](https://github.com/YASWANTH1976/edgeguard/releases/latest/download/edgeguard.zip)**
 
 ---
 
