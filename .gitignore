@@ -1,7 +1,16 @@
-venv/
+# Ignore Python Cache and Virtual Environments
 __pycache__/
-*.pt
-*.onnx
-dist/
+venv/
+env/
+
+# Ignore local databases and logs
+*.db
+*.csv
+
+# Ignore local evidence snapshots
+threat_snapshots/
+
+# Ignore compiled Windows executable and build files
 build/
+dist/
 *.spec
